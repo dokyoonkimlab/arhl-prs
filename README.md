@@ -1,5 +1,5 @@
 # age-related hearing loss-prs
-#### Polygenic risk score models for head and neck squamous cell carcinoma and its subtypes
+#### Polygenic risk score model for age-related hearing loss
 Jung, S. H., Lee, Y. C., Shivakumar, M., Kim, J, Park. Y. W., … & Kim, D. (2024) Association between genetic risk and adherence to healthy lifestyle for developing age-related hearing loss.
 
 ### Sensorineural hearing loss - 972,182 variants
