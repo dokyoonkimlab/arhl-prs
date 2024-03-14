@@ -2,8 +2,8 @@
 #### Polygenic risk score model for age-related hearing loss
 Jung, S. H., Lee, Y. C., Shivakumar, M., Kim, J, Park. Y. W., … & Kim, D. (2024) Association between genetic risk and adherence to healthy lifestyle for developing age-related hearing loss.
 
-### Sensorineural hearing loss - 972,182 variants
-> [GAME-ON_HNC-all_PRSCS_auto.zip](https://github.com/dokyoonkimlab/hnc-prs-phewas/blob/main/prs-model/GAME-ON_HNC-all_PRSCS_auto.zip)
+### Sensorineural hearing loss - 1,103,359 variants
+> [FinnGen_r8_PRSCS_auto.gz](https://github.com/dokyoonkimlab/hnc-prs-phewas/blob/main/prs-model/FinnGen_r8_PRSCS_auto.gz)
 
 ---
 
